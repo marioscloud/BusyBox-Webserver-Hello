@@ -13,7 +13,7 @@ If you have any questions, feel free to reach out at marioscloud@duck.com
 ## Usage
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/marioscloud/busybox-webserver-hello
+   git clone https://github.com/marioscloud/BusyBox-Webserver-Hello
 Navigate to the project directory:
 
 sh
