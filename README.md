@@ -1,7 +1,7 @@
 # BusyBox Webserver Hello
 
 ## Project Overview
-This project demonstrates how to set up a simple web server using BusyBox. It creates an HTTP server that serves a basic "Hello, World" page. The repository includes a straightforward bash script to automate the process. This project is ideal for those learning about lightweight web servers, embedded systems, or quick web service setups.
+This project demonstrates how to set up a web server using BusyBox and bash script. It creates an HTTP server that serves a basic "Hello, World" page. The repository includes a straightforward bash script to automate the process. This project is ideal for those learning about lightweight web servers, embedded systems, or quick web service setups.
 
 ## Prerequisites
 - Linux environment with BusyBox installed.
