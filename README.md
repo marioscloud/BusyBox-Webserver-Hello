@@ -14,6 +14,11 @@ If you have any questions, feel free to reach out at marioscloud@duck.com
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/marioscloud/BusyBox-Webserver-Hello
+
+## Navigate to the project directory:
+2. **Clone the repository**:
+   ```sh
+   cd project_01
 Navigate to the project directory:
 
 sh
