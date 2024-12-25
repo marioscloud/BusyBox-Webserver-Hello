@@ -17,11 +17,15 @@ If you have any questions, feel free to reach out at marioscloud@duck.com
 Navigate to the project directory:
 
 sh
-cd busybox-webserver-hello
-Create and start the web server: Execute the provided bash script:
+cd project_01
+
+Make executable the file webserver_hello.sh and execute the provided bash script:
 
 sh
-./start_server.sh
+chmod + ./webserver_hello.sh
+
+./webserver_hello.sh
+
 Access the web server: Open your web browser and navigate to http://localhost:8080 to see the "Hello, World" message.
 
 Stop the server: To stop the server, find the process ID (PID) and kill it:
@@ -29,4 +33,5 @@ Stop the server: To stop the server, find the process ID (PID) and kill it:
 sh
 ps aux | grep busybox
 sudo kill -9 <PID>
-This README provides clear instructions on how to set up and run your BusyBox web server. Feel free to adjust any details to better suit your project's specifics.
+
+This README provides clear instructions on how to set up and run your BusyBox web server. Feel free to adjust any details to better suit your project's specifics. Thanks for reading.
